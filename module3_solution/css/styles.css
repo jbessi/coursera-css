@@ -1,0 +1,40 @@
+body {
+    background-color: #61122f;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #61122f;
+}
+
+#nav-list {
+    background-color: #d9edf7;
+    color: #0f0f0f;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#nav-list li {
+    text-align: center;
+    margin: 15px;
+}
+
+.menues {
+    margin: 15px;
+    border: solid black;
+    height: 1000px;
+    padding: 10px;
+    background-color: #adadad;
+}
+
+#menue-options {
+    width: 100%;
+}
